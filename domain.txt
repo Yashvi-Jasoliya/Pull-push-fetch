@@ -3,3 +3,5 @@ BackEnd
 Data Science
 Full - Stack
 Cyber Security
+Development
+SEO
